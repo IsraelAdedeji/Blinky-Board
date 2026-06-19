@@ -16,7 +16,13 @@ My first PCB. Its a butterfly, aint that cool?
 <img width="689" height="370" alt="Screenshot 2026-06-19 214925" src="https://github.com/user-attachments/assets/2e338fe9-4a49-49a3-aa4f-ca160dc0c7f0" />
 
 # Bill Of Materials
-[Blinky Board-bom.csv](https://github.com/user-attachments/files/29114579/Blinky.Board-bom.csv)
+[Blinky Board-bom (1).csv](https://github.com/user-attachments/files/29151139/Blinky.Board-bom.1.csv)
+
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
-|---:|---|---|---|---|---:|
+| Potentiometer | Gets range input | 1 | 0.00 | https://stasis.hackclub.com | Stasis |
+| LEDs | Emitting Light With Current | 10 | 0.00 | https://stasis.hackclub.com | Stasis |
+| Capacitors | Stores Electrical Energy | 2 | 0.00 | https://stasis.hackclub.com | Stasis |
+| Controller IC (CD4017) | IC to control LEDS | 1 | 0.00 | https://stasis.hackclub.com | Stasis |
+| Timer IC (NE555N) | Controls timing of led blinks | 1 | 0.00 | https://stasis.hackclub.com | Stasis |
+| Resistors | Resists Current Flow | 3 | 0.00 | https://stasis.hackclub.com | Stasis |
 | PCB | Its the PCB for the project | 1 | 2.00 | https://cart.jlcpcb.com | JLCPCB |

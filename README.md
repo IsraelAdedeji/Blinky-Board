@@ -19,6 +19,7 @@ My first PCB. Its a butterfly, aint that cool?
 [Blinky Board-bom (1).csv](https://github.com/user-attachments/files/29151139/Blinky.Board-bom.1.csv)
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|---:|---|---|---|---|---:|
 | Potentiometer | Gets range input | 1 | 0.00 | https://stasis.hackclub.com | Stasis |
 | LEDs | Emitting Light With Current | 10 | 0.00 | https://stasis.hackclub.com | Stasis |
 | Capacitors | Stores Electrical Energy | 2 | 0.00 | https://stasis.hackclub.com | Stasis |

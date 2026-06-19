@@ -5,6 +5,16 @@ My first PCB. Its a butterfly, aint that cool?
 # Image
 <img width="701" height="515" alt="Screenshot 2026-06-18 222626" src="https://github.com/user-attachments/assets/824569ef-caa8-4783-bc40-448f4f6c0f8e" />
 
+<img width="668" height="483" alt="Screenshot 2026-06-19 214553" src="https://github.com/user-attachments/assets/26c7bb6f-41ce-4445-8569-215c0ae9a8c4" />
+
+<img width="588" height="541" alt="Screenshot 2026-06-19 214615" src="https://github.com/user-attachments/assets/2b40cfff-046f-42d0-b30b-765b35faed19" />
+
+# Schematic and Footprint Mapping
+
+<img width="706" height="503" alt="Screenshot 2026-06-19 214438" src="https://github.com/user-attachments/assets/7158363e-d407-447a-9e8f-4b945ea416dc" />
+
+<img width="689" height="370" alt="Screenshot 2026-06-19 214925" src="https://github.com/user-attachments/assets/2e338fe9-4a49-49a3-aa4f-ca160dc0c7f0" />
+
 # Bill Of Materials
 [Blinky Board-bom.csv](https://github.com/user-attachments/files/29114579/Blinky.Board-bom.csv)
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |

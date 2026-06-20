@@ -18,14 +18,14 @@ My first PCB. Its a butterfly, aint that cool?
 <img width="535" height="402" alt="Screenshot 2026-06-19 214520" src="https://github.com/user-attachments/assets/ffaab395-73e6-4800-b38b-44f7039fa2f0" />
 
 # Bill Of Materials
-[Blinky Board-bom (1).csv](https://github.com/user-attachments/files/29151139/Blinky.Board-bom.1.csv)
+[Blinky Board-bom (2).csv](https://github.com/user-attachments/files/29165458/Blinky.Board-bom.2.csv)
 
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |---:|---|---|---|---|---:|
-| Potentiometer | Gets range input | 1 | 0.00 | https://stasis.hackclub.com | Stasis |
-| LEDs | Emitting Light With Current | 10 | 0.00 | https://stasis.hackclub.com | Stasis |
-| Capacitors | Stores Electrical Energy | 2 | 0.00 | https://stasis.hackclub.com | Stasis |
-| Controller IC (CD4017) | IC to control LEDS | 1 | 0.00 | https://stasis.hackclub.com | Stasis |
-| Timer IC (NE555N) | Controls timing of led blinks | 1 | 0.00 | https://stasis.hackclub.com | Stasis |
-| Resistors | Resists Current Flow | 3 | 0.00 | https://stasis.hackclub.com | Stasis |
+| Potentiometer | Gets range input | 1 | 0.00 | https://www.aliexpress.com/item/1005012093971113.html | Aliexpress |
+| LEDs | Emitting Light With Current | 0 | 0.00 | https://www.aliexpress.com/item/1005008040796418.html | Aliexpress |
+| Capacitors | Stores Electrical Energy | 2 | 0.00 | https://www.aliexpress.com/item/1005005558643765.html | Aliexpress |
+| Controller IC (CD4017) | IC to control LEDS | 1 | 0.00 | https://www.aliexpress.com/item/1005010146574961.html | Aliexpress |
+| Timer IC (NE555N) | Controls timing of led blinks | 1 | 0.00 | https://www.aliexpress.com/item/32821209180.html | Aliexpress |
+| Resistors | Resists Current Flow | 3 | 0.00 | https://www.aliexpress.com/item/32847096736.html | Aliexpress |
 | PCB | Its the PCB for the project | 1 | 2.00 | https://cart.jlcpcb.com | JLCPCB |

@@ -15,6 +15,8 @@ My first PCB. Its a butterfly, aint that cool?
 
 <img width="689" height="370" alt="Screenshot 2026-06-19 214925" src="https://github.com/user-attachments/assets/2e338fe9-4a49-49a3-aa4f-ca160dc0c7f0" />
 
+<img width="535" height="402" alt="Screenshot 2026-06-19 214520" src="https://github.com/user-attachments/assets/340ae3bf-0a24-44cf-8399-836639939577" />
+
 # Bill Of Materials
 [Blinky Board-bom (1).csv](https://github.com/user-attachments/files/29151139/Blinky.Board-bom.1.csv)
 

@@ -9,7 +9,7 @@ My first PCB. Its a butterfly, aint that cool?
 
 <img width="588" height="541" alt="Screenshot 2026-06-19 214615" src="https://github.com/user-attachments/assets/2b40cfff-046f-42d0-b30b-765b35faed19" />
 
-# Schematic and Footprint Mapping
+# Schematic, Footprint Mapping and PCB Design Image
 
 <img width="706" height="503" alt="Screenshot 2026-06-19 214438" src="https://github.com/user-attachments/assets/7158363e-d407-447a-9e8f-4b945ea416dc" />
 
